@@ -3,7 +3,7 @@
 
 # list vs array
 # common - 
-# 1. congiteous memory allocation
+# 1. contiguous memory allocation
 # 2. indexing
 # uncommon - 
 # 1. array holds only similar type of data, only char, int, str
